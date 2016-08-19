@@ -17,15 +17,15 @@
 			*               													  *
 			*     3 - Apollo V.1 - - - - - - - - - - - - - - - - - - - - 8 / 16   *
 			*																	  *
+			*	  4 - 	                                 						  *
 			*																	  *
+			*	  5 -    														  *
 			*																	  *
+			*	  6 -															  *
 			*																	  *
+			*	  7	-	           												  *
 			*																	  *
-			*																	  *
-			*																	  *
-			*																	  *
-			*																	  *
-			*																	  *
+			*	  8	-												              *
 			*																	  *
 			*																	  *
 			* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
@@ -42,17 +42,20 @@
 															* 
 															* * * * * * * * * * * *
 			___________________________________________		* * * * * * * * * * * *
-															*
-			2 - G O O G L E  M A P S  A P I     12 / 15 	*
-			___________________________________________		*
-															*
-			- C O N C E P T 								*
-															*
+															* // This project aims 
+			2 - G O O G L E  M A P S  A P I     12 / 15 	* to explore all the
+			___________________________________________		* available features of
+															* the Google Maps API.
+			- C O N C E P T 								*  
+															* 
 			My initial idea for the API involves the  		*
 			overlay of customized animated gifs to map  	*
 			user's location. It is inspired by city			*
 			building games that allow users to building 	*
-			on an existing map and customize its layout		*
+			on an existing map and customize its layout		* 
+															*
+															*
+															* * * * * * * * * * * *
 			
 
 
