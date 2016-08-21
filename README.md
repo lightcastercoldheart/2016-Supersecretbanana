@@ -54,8 +54,9 @@
 			building games that allow users to building 	*
 			on an existing map and customize its layout		* 
 															*
-															*
-															* * * * * * * * * * * *
-			
-
+			Idea for implementation will be to use html 	*
+			z-index to overlay the GIFs on the interactive	* 
+			map, allowing users to still utilize the        *
+			inherent functionality of service while being   *
+			able to customize it. 						    * * * * * * * * * * * *
 
